@@ -1,39 +1,40 @@
-# 🟣 Sasa Gem (Minecraft 1.15.2 Forge Mod)
+Sasa Gem (Minecraft 1.15.2 Forge Mod)
+Welcome to the Sasa Gem project. This is a custom mod I built for Hack Club that adds a new tier of progression to Minecraft. It introduces unique ores, a bit of exploration, and some endgame gear to aim for.
 
-Welcome to **Sasa Gem**! This is a custom Minecraft mod developed for Hack Club that adds a completely new progression layer to the game, featuring unique gems, rare ore generation, and powerful combat gear.
+The Gems
+I have added a few new minerals to the game, with one being the main focus of the mod:
 
----
+Sasa Gem (The Core): This is the heart of the mod. It is a mysterious purple gemstone intended for endgame crafting. You will need it if you want the strongest gear in the set.
 
-## 💎 The Gems
+Ruby: A rare, vibrant gem to spice up your mining trips.
 
-While exploring the world, you will encounter multiple new precious minerals, but one stands above all:
+Bakry: A unique, rare find hidden deep underground.
 
-* **The Sasa Gem (Main Focus):** The absolute core of this mod. This mysterious purple gemstone is an endgame material used to craft the most powerful weapons and high-definition armor sets in the game.
-* **Ruby:** A rare, vibrant gem found during your journeys.
-* **Bakry:** A unique gem waiting to be unearthed deep in the world.
+Key Features
+Rare Sasa Ore
+Generation: These ores spawn deep underground, usually lurking around Y=10.
 
----
+Rarity: I have tuned these to be significantly rarer than diamonds.
 
-## 🚀 Key Features
+Mining: You will need a diamond pickaxe or better to mine it. When you do, it drops the Sasa Gem directly.
 
-### 🌍 Rare Sasa Ore Generation
-* Generates deep underground in caves heavily concentrated around **$Y=10$**.
-* It is designed to be **significantly more rare than Diamond**.
-* Requires a Diamond Pickaxe or better to mine, and directly drops a **Sasa Gem**.
+Combat Gear
+Sasa Broadsword: A heavy-duty weapon crafted with an expanded 5-gem pattern. It packs a serious punch.
 
-### ⚔️ Custom Weapons & Gear
-* **Sasa Broadsword:** A mighty blade featuring an expanded 5-gem crafting pattern to deliver massive damage.
-* **Sasa-Emerald Armor Set:** A gorgeous set of heavy armor created by fusing Sasa Gems with a pure Emerald core. 
+Sasa-Emerald Armor Set: A heavy-duty armor set created by fusing Sasa Gems with a core of pure emerald.
 
----
+Visuals and Assets
+Everything in this mod features custom-made pixel art. The armor set uses a 64×64 texture layout, which gave me the space to add some extra detail, custom shading, and a cleaner look on the player model.
 
-## 🎨 Visuals & Assets
-All textures in this mod are custom-made pixel art! The armor set uses an upgraded, high-definition **$64 \times 64$ texture layout**, allowing for incredible detail, custom shading, and a clean 3D fit on the player model.
+How to Get Started
+If you want to poke around the code or try it out:
 
----
+Clone this repository to your machine.
 
-## 🛠️ How to Set Up & Play
-1. Clone or download this repository.
-2. Open the folder as a project inside **IntelliJ IDEA**.
-3. Let Gradle import the dependencies, then run the `genIntellijRuns` task to configure your environment.
-4. Click the **Run Client** button to start playing and testing!
+Open the folder in IntelliJ IDEA.
+
+Give Gradle a moment to import all the dependencies.
+
+Run the genIntellijRuns task in the Gradle sidebar to set up your environment.
+
+Click the Run Client button in IntelliJ to launch the game and test it out.
