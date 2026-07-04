@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SSS",
+    " I "
+  ],
+  "key": {
+    "S": {
+      "item": "playerevolutions:sasa"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "playerevolutions:sasa_sword",
+    "count": 1
+  }
+}

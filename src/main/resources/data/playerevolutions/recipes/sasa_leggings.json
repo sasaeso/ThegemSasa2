@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SES",
+    "S S",
+    "S S"
+  ],
+  "key": {
+    "S": { "item": "playerevolutions:sasa" },
+    "E": { "item": "minecraft:emerald" }
+  },
+  "result": { "item": "playerevolutions:sasa_leggings", "count": 1 }
+}
